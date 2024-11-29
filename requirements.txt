@@ -1,0 +1,7 @@
+Flask
+tweepy
+requests
+SQLAlchemy
+psycopg2
+tkinter
+celery
